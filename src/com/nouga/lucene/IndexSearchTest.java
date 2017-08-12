@@ -3,7 +3,6 @@ package com.nouga.lucene;
 import java.io.File;
 
 import org.apache.lucene.analysis.Analyzer;
-import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.Term;
@@ -22,6 +21,8 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.junit.Test;
 import org.wltea.analyzer.lucene.IKAnalyzer;
+
+
 
 public class IndexSearchTest {
 

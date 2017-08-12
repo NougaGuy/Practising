@@ -1,8 +1,5 @@
 package com.nouga.solr;
 
-import org.apache.solr.client.solrj.SolrServer;
-import org.apache.solr.client.solrj.impl.HttpSolrServer;
-import org.apache.solr.common.SolrInputDocument;
 import org.junit.Test;
 
 public class IndexManagerTest {

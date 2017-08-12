@@ -13,8 +13,8 @@ import org.apache.activemq.ActiveMQConnectionFactory;
 
 /**
  * 消息的生产者
- * 
  * @author Nouga Date : 8/5
+ * Use Version : 5.15
  */
 public class JMSProducer {
 

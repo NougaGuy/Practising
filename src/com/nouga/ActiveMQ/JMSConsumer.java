@@ -14,6 +14,7 @@ import org.apache.activemq.ActiveMQConnectionFactory;
 
 /**
  * @author Nouga Date : 8/5
+ * Use Version : 5.15
  */
 public class JMSConsumer {
 	// 默认的用户名，密码，连接地址，发送消息数量。
