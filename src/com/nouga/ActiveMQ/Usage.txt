@@ -1,0 +1,3 @@
+使用版本：5.15
+Linux下解压，运行bin下activemq即可，端口61616.
+该包下有三个类，JMSConsumer、Producer是使用范例，教程。SpringActiveMQ是整合Spring后的使用范例。
